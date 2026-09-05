@@ -21,3 +21,5 @@ Solucionador de Sudokus de alto rendimiento con múltiples estrategias de backtr
 Para resolver un Sudoku guardado en `data.txt`:
 ```bash
 time ./bin/main < data.txt
+
+![Ejemplo de ejecución](images/salida_sudoku.png)
