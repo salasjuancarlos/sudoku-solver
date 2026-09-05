@@ -22,4 +22,6 @@ Para resolver un Sudoku guardado en `data.txt`:
 ```bash
 time ./bin/main < data.txt
 
-![Ejemplo de ejecución](images/salida_sudoku.png)
+```
+## Ejemplo de un sudoku de dificultad extrema de [sudoku.com](https://sudoku.com/es/extreme/)
+![Sudoku extremo resuelto](extreme_sudoku_example.png)
