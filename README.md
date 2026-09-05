@@ -1,6 +1,6 @@
 # Sudoku Solver - C++20 Optimizado
 
-Solucionador de Sudokus de alto rendimiento con múltiples estrategias de backtracking y optimizaciones a nivel de compilador (PGO, LTO, `-march=native`).
+Solver de Sudokus de alto rendimiento con múltiples estrategias de backtracking y optimizaciones a nivel de compilador (PGO, LTO, `-march=native`).
 
 ## Estructura del Proyecto
 - `src/main.cpp`: ...
